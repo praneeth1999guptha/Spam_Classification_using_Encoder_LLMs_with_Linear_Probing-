@@ -1,7 +1,4 @@
 # Spam_Classification_using_Encoder_LLMs_with_Linear_Probing-
-we will use encoder Large Language Models (LLMs) for spam classification. We will leverage the rich features of pre-trained LLMs without fine-tuning them. Instead, we will freeze the LLM weights and train a lightweight classifier head (MLP) on top for spam classification.
-# Spam Classification using Encoder LLMs with Linear Probing
-
 This repository accompanies the notebook **`notebooks/Spam Classification using Encoder LLMs with Linear Probing.ipynb`**.  
 It demonstrates **feature extraction with pre-trained encoder-only Transformers** (BERT / DistilBERT / ALBERT) and **linear probing** (Logistic Regression (linear probe)) for **spam vs ham** text classification.
 
